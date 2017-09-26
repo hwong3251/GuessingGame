@@ -7,6 +7,7 @@ public class GuessingGame
 	{
 		
 		/**
+		 //Hello!!!
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello, what is your name?");
 		String S = input.next();
